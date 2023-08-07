@@ -5,10 +5,7 @@
 -  currently familiar with the basics of Java and OOP but following
 -  the Odin Project to learn more about front-end development and
 -  getting started on personal projects.
-
+-   
 -  How to reach me:
 -  kushtr17@gmail.com
 -  Discord: rashomo.n
-
-
-  
