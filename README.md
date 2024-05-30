@@ -1,2 +1,1 @@
 -  A second-year computer science student.
--  
