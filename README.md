@@ -1,1 +1,1 @@
--  A second-year computer science student.
+-  A third-year computer science student.
